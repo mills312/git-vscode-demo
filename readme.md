@@ -9,8 +9,8 @@ blh blah
 #### more changes  
 blah blah
 
-    ##### The value of change  
-    The most **important** thing is to blah blah...
+   _The value of change_  
+   The most **important** thing is to blah blah...
 
 #### another change  
 blah blah blah signoff
